@@ -29,7 +29,7 @@ My goal in development is helping to create an environment that sparks joy: when
 | Project           | Info            |
 | :------------:     | :-------------         |
 | [Flashcards](https://github.com/DavidStewartLDN/react-flashcards)<br /><br /> <a href="https://github.com/DavidStewartLDN/react-flashcards"><div align="center"><img src="images/flashcards.gif" width="600" /></div></a> | <h4>Description</h4> A project to show the use of React and a database<br/><br/>Timeframe: continuous<h4>Development/Testing</h4>JavaScript, NodeJS, ReactJS <h4> |
-| [FirworksBnB](https://github.com/DavidStewartLDN/fireworksBnB)<br /><br /> <a href="https://github.com/DavidStewartLDN/fireworksBnB"> | <h4>Description</h4> Team Project to create a Airbnb clone within a week time frame<br/><br/>Timeframe: 5 days <h4>Development/Testing</h4>Sinatra, Ruby, RSpec, Capybara<h4> |
+| [FirworksBnB](https://github.com/DavidStewartLDN/fireworksBnB)<br /><br /> <a href="https://github.com/DavidStewartLDN/fireworksBnB"><div align="center"><img src="images/fireworksbnb.gif" width="600" /></div></a> | <h4>Description</h4> Team Project to create a Airbnb clone within a week time frame<br/><br/>Timeframe: 5 days <h4>Development/Testing</h4>Sinatra, Ruby, RSpec, Capybara<h4> |
 | [Rock, Paper, Scissors](https://github.com/DavidStewartLDN/rps-challenge)<br /><br /> <a href="https://github.com/DavidStewartLDN/rps-challenge"><div align="center"><img src="images/rps.gif" width="600" /></div></a> | <h4>Description</h4> Project showing use of Sinatra and Ruby to make a simple Rock Paper Scissors application<br/><br/>Timeframe: 5 days <h4>Development/Testing</h4>Sinatra, Ruby, RSpec, Capybara <h4> |
 
 ## Skills
