@@ -17,7 +17,7 @@
 
 </div>
 
-I am goal driven software engineer with a curiosity to continually learn and develop my knowledge. I have recently graduate from Makers Academy, a highly selective coding bootcamp where I developed my ability to be an autodidact and become closer to being language-agnostic. I have realised that coding is not about knowing everything, it is about using what you do know to navigate new problems and use that knowledge flexibly to meander the challenging world of development!
+I am goal driven software engineer with a curiosity to continually learn and develop my knowledge. I have recently graduated from Makers Academy, a highly selective coding bootcamp where I developed my ability to be an autodidact and become closer to being language-agnostic. I have realised that coding is not about knowing everything, it is about using what you do know to navigate new problems and use that knowledge flexibly to meander the challenging world of development!
 
 I have always been interested in technology and taking things apart to better understand how they work. I was introduced to coding briefly at university while studying Aeronatuical Engineering but only recently dived into to developing prior to joining Makers. 
 
