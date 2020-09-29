@@ -13,6 +13,13 @@
 <a href="https://sourcerer.io/davidstewartldn"><img src="https://img.shields.io/badge/SQL-13%20commits-a29ead.svg" alt=""></a>
 <a href="https://sourcerer.io/davidstewartldn"><img src="https://img.shields.io/badge/Python-17%20commits-a29ead.svg" alt=""></a>
 
+[<img src="https://img.shields.io/badge/Ruby-252%20commits-orange.svg">](https://sourcerer.io/davidstewartldn)
+[<img src="https://img.shields.io/badge/JavaScript-229%20commits-green.svg">](https://sourcerer.io/davidstewartldn)
+[<img src="https://img.shields.io/badge/SQL-77%20commits-yellow.svg">](https://sourcerer.io/davidstewartldn)
+[<img src="https://img.shields.io/badge/HTML-113%20commits-orange.svg">](https://sourcerer.io/davidstewartldn)
+[<img src="https://img.shields.io/badge/CSS-206%20commits-red.svg">](https://sourcerer.io/davidstewartldn)
+[<img src="https://img.shields.io/badge/Python-34%20commits-blue.svg">](https://sourcerer.io/davidstewartldn)
+
 [Skills](#skills) | [Dev Projects](#dev-projects) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
 </div>
